@@ -1,0 +1,28 @@
+.entry-title {
+    font-size: 2rem;
+    line-height: 3.0rem;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 45px;
+    margin-left: 177px;
+    color: #ea5000;
+    text-align: left;
+  }
+  .entry-title1{
+    font-size: 2rem;
+    line-height: 3.0rem;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 45px;
+    color: #ea5000;
+    text-align: center !important;
+  }
+
+  @media (max-width:786px) {
+    .entry-title {
+      
+      margin-left: 10px;
+     
+    }
+ 
+  }

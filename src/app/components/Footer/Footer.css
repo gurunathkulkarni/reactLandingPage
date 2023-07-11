@@ -1,0 +1,96 @@
+
+
+.card {
+    padding: 2% 7%;
+    color: #646771;
+    background-color: #16151a
+}
+
+ul {
+    list-style-type: square;
+    margin: 0;
+    padding: 0
+}
+.footerList li{
+    padding: 4px;
+    text-align: left;
+    color:white;
+    font-weight: 400; 
+}
+.footerList li:hover{
+    color: #fd6c00;
+    cursor: pointer 
+}
+
+
+hr {
+    border-width: 3px;
+}
+
+.social>i {
+    padding: 1%;
+    font-size: 15px
+}
+
+.social>i:hover {
+    color: #957bda;
+    cursor: pointer
+}
+
+.policy>div {
+    padding: 4px
+}
+
+.heading {
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    text-align: left;
+    margin-bottom: 23px;
+    margin-top: 11px;
+}
+
+.divider {
+    border-top: 2px solid #fd6c00;
+}
+.logoImg{
+    margin-left: 93px;
+}
+.card-text{
+    text-align: left;
+    margin-top: 21px;
+    color: white;
+    font-weight: 400;
+}
+.card-text:hover{
+    
+    color: #fd6c00;
+}
+.copyPara{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
+    color: white;
+}
+.footerIcon{
+    font-size: 24px;
+    margin-right: 5px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.footerIcon:hover{
+    color: #fd6c00;
+    cursor: pointer;
+}
+
+.links{
+    width: unset !important;
+    height: unset !important;
+    border-radius: unset !important;
+    background: unset !important;
+    color: #fff;
+    text-align: center;
+    line-height: 35px;
+   
+    transition: 0.3s;
+}

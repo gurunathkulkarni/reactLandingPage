@@ -1,0 +1,30 @@
+.headerMain {
+  background-color: #010114;
+  height: 40px;
+}
+.tubeicon {
+  color: white;
+  margin-top: 10px;
+  margin-right: 17px !important;
+  font-size: 18px !important;
+}
+.tubeicon:hover {
+  color: #fd6c00 !important;
+  cursor: pointer;
+}
+.subHearRight {
+  display: flex;
+  color: white;
+}
+.iconSub {
+  color: #fd6c00;
+  font-size: 19px;
+  margin-top: 11px;
+  align-items: center;
+  margin-right: 5px;
+}
+.paraSubHead {
+  margin-top: 10px;
+  margin-right: 25px;
+  font-size: 14px;
+}

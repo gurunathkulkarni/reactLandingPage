@@ -1,0 +1,22 @@
+.entry-content{
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.entry-content p{
+    text-align: left;
+}
+.entry-content h3{
+    text-align: left;
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 0px;
+}
+
+@media (max-width:786px) {
+    .entry-content{
+        margin-left: 10px !important;
+    margin-right: 10px !important;
+    }
+}

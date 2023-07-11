@@ -1,0 +1,16 @@
+.entryTitle{
+    font-size: 2rem;
+    line-height: 3.0rem;
+    font-weight: 700;
+    margin-top: 30px;
+    margin-bottom: 45px;
+    margin-left: 105px;
+    color: #ea5000;
+    text-align: left;
+  }
+
+  @media (max-width:786px) {
+    .entryTitle{
+      margin-left: 5px !important;
+    }
+  }

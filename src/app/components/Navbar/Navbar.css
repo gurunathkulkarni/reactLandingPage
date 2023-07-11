@@ -1,0 +1,100 @@
+.logoHeader {
+  height: 70px !important;
+  width: 169px !important;
+}
+
+.navClass {
+  color: black !important;
+  font-weight: 500;
+  font-size: 16px;
+  margin-top: 6px;
+  padding-left: 18px !important;
+  padding-right: 18px !important;
+}
+
+.nav-item {
+  margin-right: 20px !important;
+  cursor: pointer;
+}
+
+.navbar-collapse {
+  flex-grow: 0 !important;
+  float: right !important;
+}
+
+.navLogo {
+  margin-left: 100px;
+  cursor: pointer;
+}
+
+.marLeft {
+  margin-right: 75px !important;
+}
+
+.home {
+  background-color: #fd6c00;
+  color: white !important;
+  border-radius: 3px;
+  padding-left: 18px !important;
+  padding-right: 18px !important;
+}
+
+.navClass:hover {
+  background-color: #fd6c00;
+  color: white !important;
+  border-radius: 3px;
+  padding-left: 18px !important;
+  padding-right: 18px !important;
+}
+
+.navbarMenus {
+  box-shadow: 0 10px 2rem rgb(0 0 0 / 10%);
+}
+
+.alignLogo {
+  display: flex;
+}
+
+@media (max-width:700px) {
+  .mobdiv {
+    margin-top: -27px;
+
+  }
+
+  .navbar-brand {
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+  }
+
+  .nav-link {
+
+    border: 0.5px solid grey;
+
+  }
+
+  .logoHeader {
+    height: 119px !important;
+    width: 131px !important;
+  }
+
+  .navLogo {
+    margin-left: 0px !important;
+    cursor: pointer;
+  }
+
+  .marLeft {
+    margin-right: unset !important;
+  }
+}
+
+.navbar-toggler {
+  padding: 0.25rem 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color: orange !important;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  transition: box-shadow .15s ease-in-out;
+  margin-right: 2rem;
+}

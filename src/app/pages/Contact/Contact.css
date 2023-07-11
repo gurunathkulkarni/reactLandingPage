@@ -1,0 +1,26 @@
+.contactRow{
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+.heading-section {
+    padding-top: 52px;
+    color: #ea5000;
+    text-align: left;
+    font-weight: 600;
+    margin-left: 70px;
+}
+
+.contact-heading{
+    margin-bottom: 3rem;
+}
+
+@media (max-width:786px) {
+  .contact-heading{
+    margin-bottom: .5rem; 
+    text-align: left; 
+  } 
+  .heading-section{
+    margin-left: unset;
+  } 
+}

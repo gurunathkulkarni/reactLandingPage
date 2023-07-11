@@ -1,0 +1,89 @@
+.btn-maincolor2 {
+  border: 1px solid #fd6c00;
+  -webkit-transition: all 0.3s ease-in-out !important;
+  transition: all 0.3s ease-in-out !important;
+  float: left !important;
+  font-weight: 500;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.btn-maincolor2:hover {
+  background-color: #fd6c00;
+  color: white;
+  border: 1px solid #fd6c00;
+}
+
+.special-heading .underline {
+  display: inline-block;
+  padding-bottom: 26px;
+  font-size: 31px;
+  text-align: left;
+}
+.underline {
+  position: relative;
+}
+
+.special-heading .underline {
+  display: inline-block;
+  padding-bottom: 26px;
+}
+
+.underline {
+  padding-bottom: 18px;
+  position: relative;
+}
+
+.special-heading {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.about-us {
+  padding-left: 60px;
+}
+.about-us1{
+  margin-top: 150px;
+}
+.about-us2{
+  margin-top: 90px;
+}
+
+.special-heading .underline:after {
+  background-color: #fd6c00;
+  bottom: 0;
+  content: "";
+  height: 3px;
+  left: 0;
+  position: absolute;
+  width: 30px;
+}
+.special-heading {
+  text-align: left;
+}
+.abtPara {
+  text-align: left;
+}
+.abtImage {
+margin-top: 5rem;
+  height: auto;
+  max-width: 100%;
+}
+.above{
+  font-size: 17px;
+}
+
+
+@media (max-width:700px) {
+  .abtImage{
+    margin-top: 1rem !important;
+  }
+  .about-us {
+    padding-left: 1.8rem;
+  }
+  .about-us1{
+    margin-top: 10px;
+  }
+  .about-us2{
+    margin-top: 0px;
+  }
+}

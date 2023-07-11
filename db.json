@@ -1,0 +1,38 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "gtitle": "VISION1 KARNATAKA 2025 – THRUST OF INFRASTRUCTURE DEVELOPMENT",
+      "gdescription": "Union Minister of Coal, Mines and Parliamentary Affairs Shri Pralhad Joshi inaugurated Dhuptala coal mine of Western Coalfields Limited and laid foundation stone for SILO loading system, along with Ministers...",
+      "gimage": "https://pralhadjoshi.in/wp-content/uploads/2022/03/Vision-Karnataka-2025-Thrust-of-Infrastructure-Development-2.jpg"
+    },
+    {
+      "id": 3,
+      "gtitle": "VISION3 KARNATAKA 2025 – THRUST OF INFRASTRUCTURE DEVELOPMENT",
+      "gdescription": "Union Minister of Coal, Mines and Parliamentary Affairs Shri Pralhad Joshi inaugurated Dhuptala coal mine of Western Coalfields Limited and laid foundation stone for SILO loading system, along with Ministers...",
+      "gimage": "https://pralhadjoshi.in/wp-content/uploads/2022/03/Vision-Karnataka-2025-Thrust-of-Infrastructure-Development-2.jpg"
+    },
+    {
+      "gtitle": "VISION111 KARNATAKA 2025 – THRUST OF INFRASTRUCTURE DEVELOPMENT",
+      "gdescription": "Union Minister of Coal, Mines and Parliamentary Affairs Shri Pralhad Joshi inaugurated Dhuptala coal mine of Western Coalfields Limited and laid foundation stone for SILO loading system, along with Ministers...",
+      "gimage": "https://pralhadjoshi.in/wp-content/uploads/2022/03/Vision-Karnataka-2025-Thrust-of-Infrastructure-Development-2.jpg",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "contact": {
+    "name": "panni22",
+    "email": "phone@gmail.com",
+    "phone": "9373502671",
+    "message": "adf adf asdf dfpa adf adf "
+  }
+}
